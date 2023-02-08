@@ -119,7 +119,7 @@ body {
     cursor: pointer;
 }
 
-.card__button p {
+.card__button span {
     margin-left: 0.5rem;
     color: white;
 }
